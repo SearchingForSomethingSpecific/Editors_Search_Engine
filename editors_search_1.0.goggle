@@ -5,7 +5,7 @@
 
 ! AVID MC
 $site=https://www.avid.com/,boost=2
-$site=https://community.avid.com/forums/
+$site=https://community.avid.com/forums/,boost=2
 $site=https://help.avid.com/,boost=2 
 $site=https://www.youtube.com/@avid,boost=2
 
