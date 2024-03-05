@@ -1,42 +1,44 @@
 ! name: Editor's Search 1.0
 ! description: Search ressources relevant to editors
-! public: false
+! public: true
 ! author: SearchingForSomethingSpecific
 
+$discard
+
 ! AVID MC
-$site=https://www.avid.com/,boost=2
-$site=https://community.avid.com/forums/,boost=2
-$site=https://help.avid.com/,boost=2 
-$site=https://www.youtube.com/@avid,boost=2
+$site=www.avid.com/
+$site=community.avid.com/forums/ ,boost=2
+$site=help.avid.com/ ,boost=2
+$site=www.youtube.com/@avid ,boost=2
 
 ! Adobe
-$site=https://www.adobe.com/#,boost=2
-$site=https://helpx.adobe.com/,boost=2
-$site=https://www.youtube.com/@AdobeVideo,boost=2
+$site=www.adobe.com/# ,boost=2
+$site=helpx.adobe.com/ ,boost=2
+$site=www.youtube.com/@AdobeVideo ,boost=2
 
 ! DaVinci
-$site=https://documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Editors-Guide.pdf?_v=1680159610000,boost=2
-$site=https://documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Beginners-Guide.pdf?_v=1678777212000,boost=2
-$site=https://documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Fairlight-Audio-Post.pdf?_v=1692774010000,boost=2
-$site=https://documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Fusion-Visual-Effects.pdf?_v=1679295613000,boost=2
+$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Editors-Guide.pdf?_v=1680159610000 ,boost=2
+$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Beginners-Guide.pdf?_v=1678777212000 ,boost=2
+$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Fairlight-Audio-Post.pdf?_v=1692774010000 ,boost=2
+$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Fusion-Visual-Effects.pdf?_v=1679295613000 ,boost=2
 
 ! FCP
 
-$site=https://fcp.cafe/,boost=2
-$site=https://anawesomeguide.com/,boost=2
-$site=https://knuthake.notion.site/Final-Cut-Pro-Workflow-for-feature-films-8ba47cb0860049eebca48e4317ba2c09,boost=2
+$site=fcp.cafe/ ,boost=2
+$site=anawesomeguide.com/,boost=2
+$site=knuthake.notion.site/Final-Cut-Pro-Workflow-for-feature-films-8ba47cb0860049eebca48e4317ba2c09,boost=2
 
 ! Reddit
-$site=https://www.reddit.com/r/editors/,boost=2
-$site=https://www.reddit.com/r/VideoEditing/,boost=2
+$site=www.reddit.com/r/editors/ ,boost=2
+$site=www.reddit.com/r/VideoEditing/ ,boost=2
 
 ! Blogs
-$site=https://nofilmschool.com/,boost=2
-$site=https://jonnyelwyn.co.uk/,boost=2
-$site=https://alwaysediting.com/,boost=2
+$site=nofilmschool.com/ ,boost=2
+$site=jonnyelwyn.co.uk/ boost=2
+$site=alwaysediting.com/
 
 ! Other
-$site=https://en.editingtools.io/,boost=2
+$site=en.editingtools.io/ ,boost=2
 
 
 !$site=,boost=2
