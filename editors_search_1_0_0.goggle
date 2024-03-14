@@ -2,30 +2,40 @@
 ! description: Search ressources relevant to editors
 ! public: true
 ! author: SearchingForSomethingSpecific
+
+$discard
+
 ! AVID MC
 $site=www.avid.com/
-$site=community.avid.com/forums/
-$site=help.avid.com/
-$site=www.youtube.com/@avid
+$site=community.avid.com/forums/ 
+$site=help.avid.com/ 
+$site=www.youtube.com/@avid 
+
 ! Adobe
-$site=www.adobe.com/#
+$site=www.adobe.com/# 
 $site=helpx.adobe.com/
-$site=www.youtube.com/@AdobeVideo
+$site=www.youtube.com/@AdobeVideo 
+
 ! DaVinci
 $site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Editors-Guide.pdf?_v=1680159610000
-$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Beginners-Guide.pdf?_v=1678777212000
-$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Fairlight-Audio-Post.pdf?_v=1692774010000
-$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Fusion-Visual-Effects.pdf?_v=1679295613000
+$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Beginners-Guide.pdf?_v=1678777212000 
+$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Fairlight-Audio-Post.pdf?_v=1692774010000 
+$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Fusion-Visual-Effects.pdf?_v=1679295613000 
+
 ! FCP
+
 $site=fcp.cafe/
 $site=anawesomeguide.com/
 $site=knuthake.notion.site/Final-Cut-Pro-Workflow-for-feature-films-8ba47cb0860049eebca48e4317ba2c09
+
 ! Reddit
 $site=www.reddit.com/r/editors/
 $site=www.reddit.com/r/VideoEditing/
+
 ! Blogs
 $site=nofilmschool.com/
 $site=jonnyelwyn.co.uk/
 $site=alwaysediting.com/
+
 ! Other
 $site=en.editingtools.io/
