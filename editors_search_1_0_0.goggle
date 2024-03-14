@@ -6,15 +6,15 @@
 $discard
 
 ! AVID MC
-$site=www.avid.com/
-$site=community.avid.com/forums/ 
-$site=help.avid.com/ 
-$site=www.youtube.com/@avid 
+$boost,site=www.avid.com/
+$boost,site=community.avid.com/forums/ 
+$boost,site=help.avid.com/ 
+$boost,site=www.youtube.com/avid 
 
 ! Adobe
-$site=www.adobe.com/# 
-$site=helpx.adobe.com/
-$site=www.youtube.com/@AdobeVideo 
+$boost,site=www.adobe.com/# 
+$boost,site=helpx.adobe.com/
+$boost,site=www.youtube.com/@AdobeVideo 
 
 ! DaVinci
 !$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Editors-Guide.pdf?_v=1680159610000
@@ -39,3 +39,6 @@ $site=alwaysediting.com/
 
 ! Other
 $site=en.editingtools.io/
+
+
+!$site=,boost=2
