@@ -14,7 +14,7 @@ $boost,site=help.avid.com
 ! Adobe
 $boost,site=adobe.com
 $boost,site=helpx.adobe.com
- 
+$boost,site=new.express.adobe.com
 
 ! DaVinci
 !$site=documents.blackmagicdesign.com
@@ -37,6 +37,7 @@ $site=bfs-filmeditor.de
 $site=en.editingtools.io
 !$site=youtube.com
 !$site=reddit.com
+$site=frame.io
 
 $site=provideocoalition.com
 $site=creativecow.net
