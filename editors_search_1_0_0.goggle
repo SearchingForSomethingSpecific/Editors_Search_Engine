@@ -17,10 +17,10 @@ $site=helpx.adobe.com/
 $site=www.youtube.com/@AdobeVideo 
 
 ! DaVinci
-$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Editors-Guide.pdf?_v=1680159610000
-$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Beginners-Guide.pdf?_v=1678777212000 
-$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Fairlight-Audio-Post.pdf?_v=1692774010000 
-$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Fusion-Visual-Effects.pdf?_v=1679295613000 
+!$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Editors-Guide.pdf?_v=1680159610000
+!$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Beginners-Guide.pdf?_v=1678777212000 
+!$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Fairlight-Audio-Post.pdf?_v=1692774010000 
+!$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Fusion-Visual-Effects.pdf?_v=1679295613000 
 
 ! FCP
 
