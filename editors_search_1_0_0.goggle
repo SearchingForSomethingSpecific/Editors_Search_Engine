@@ -4,4 +4,4 @@
 ! author: SearchingForSomethingSpecific
 
 $discard
-$boost,site=avid.com/
+$boost,site=avid.com
