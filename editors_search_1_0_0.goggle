@@ -6,15 +6,15 @@
 $discard
 
 ! AVID MC
-$boost,site=www.avid.com/
+$boost,site=avid.com/
 $boost,site=community.avid.com/forums/ 
 $boost,site=help.avid.com/ 
-$boost,site=www.youtube.com/avid 
+$boost,site=youtube.com/avid 
 
 ! Adobe
-$boost,site=www.adobe.com/# 
+$boost,site=adobe.com/# 
 $boost,site=helpx.adobe.com/
-$boost,site=www.youtube.com/@AdobeVideo 
+$boost,site=youtube.com/@AdobeVideo 
 
 ! DaVinci
 !$site=documents.blackmagicdesign.com/UserManuals/DaVinci-Resolve-18-Editors-Guide.pdf?_v=1680159610000
@@ -29,8 +29,8 @@ $site=anawesomeguide.com/
 $site=knuthake.notion.site/Final-Cut-Pro-Workflow-for-feature-films-8ba47cb0860049eebca48e4317ba2c09
 
 ! Reddit
-$site=www.reddit.com/r/editors/
-$site=www.reddit.com/r/VideoEditing/
+$site=reddit.com/r/editors/
+$site=reddit.com/r/VideoEditing/
 
 ! Blogs
 $site=nofilmschool.com/
