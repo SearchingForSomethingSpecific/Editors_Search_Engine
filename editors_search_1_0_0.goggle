@@ -6,9 +6,9 @@
 $discard
 
 ! AVID MC
-$boost,site=avid.com
-$boost,site=community.avid.com
-$boost,site=help.avid.com 
+$site=avid.com
+$site=community.avid.com
+$site=help.avid.com 
 
 
 ! Adobe
@@ -31,10 +31,16 @@ $site=knuthake.notion.site
 $site=nofilmschool.com
 $site=jonnyelwyn.co.uk
 $site=alwaysediting.com
+$site=bfs-filmeditor.de
 
 ! Other
 $site=en.editingtools.io
-$boost,site=youtube.com
-$boost,site=reddit.com
+$site=youtube.com
+$site=reddit.com
+
+$site=provideocoalition.com
+$site=creativecow.net
+$site=postperspective.com
+$site=filmeditingpro.com
 
 !$site=,boost=2
