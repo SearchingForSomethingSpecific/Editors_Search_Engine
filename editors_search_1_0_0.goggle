@@ -6,9 +6,9 @@
 $discard
 
 ! AVID MC
-$site=avid.com
-$site=community.avid.com
-$site=help.avid.com 
+$boost,site=avid.com
+$boost,site=community.avid.com
+$boost,site=help.avid.com 
 
 
 ! Adobe
@@ -35,8 +35,8 @@ $site=bfs-filmeditor.de
 
 ! Other
 $site=en.editingtools.io
-$site=youtube.com
-$site=reddit.com
+!$site=youtube.com
+!$site=reddit.com
 
 $site=provideocoalition.com
 $site=creativecow.net
