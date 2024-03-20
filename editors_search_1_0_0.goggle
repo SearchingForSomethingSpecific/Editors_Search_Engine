@@ -17,9 +17,9 @@ $boost,site=helpx.adobe.com
 $boost,site=new.express.adobe.com
 
 ! DaVinci
-!$site=documents.blackmagicdesign.com
-!$site=blackmagicdesign.com
-
+$site=documents.blackmagicdesign.com
+$site=blackmagicdesign.com
+$site=dvresolve.com
 
 ! FCP
 
