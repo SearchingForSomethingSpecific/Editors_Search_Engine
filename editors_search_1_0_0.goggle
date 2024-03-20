@@ -33,17 +33,19 @@ $site=jonnyelwyn.co.uk
 $site=alwaysediting.com
 $site=bfs-filmeditor.de
 $site=cined.com
-
-! Other
-$site=en.editingtools.io
-!$site=youtube.com
-!$site=reddit.com
-$site=frame.io
-$site=avtools.io
-
 $site=provideocoalition.com
 $site=creativecow.net
 $site=postperspective.com
 $site=filmeditingpro.com
+
+! Tools
+$site=en.editingtools.io
+$site=avtools.io
+$site=onlinetonegenerator.com
+
+! Other
+!$site=youtube.com
+!$site=reddit.com
+$site=frame.io
 
 !$site=,boost=2
